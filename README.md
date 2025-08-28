@@ -1,18 +1,21 @@
 # 👋 Hello, I'm Jason!
-I'm a 4th-year computer science student at Carleton University, passionate about machine learning and data science, especially in the fields of healthcare and genetics. I enjoy solving real-world problems using data-driven approaches and have a keen interest in how technology can improve health outcomes and lead to new discoveries in genetics.]
+I am a Master’s student in Data Science at Carleton University focused on applying data science to healthcare. I build technologies that assist clinicians by enabling faster, safer, and more informed decisions.
+
+My prior work spans genetic analysis and medical imaging, with a particular interest in enhancing AI precision to improves patient care. My goal is to help create a future where technology augments human expertise, forming smarter and more efficient healthcare systems.
 
 ## 🌐 My Blog & Portfolio
 [Personal Website](https://sightsontheheights.github.io/)
 
 ## 🛠️ Technologies & Tools
-TODO
+- **Programming & Data:** Python, R, SQL, C++  
+- **Machine Learning & AI:** Scikit-learn, TensorFlow, PyTorch, MONAI  
+- **Data Science:** Pandas, NumPy, SciPy, Time Series Modeling, Predictive Analytics  
+- **Medical AI:** Medical Imaging (CT/MRI), Deep Learning (CNNs, RNNs, Transformers)  
+- **Visualization:** Matplotlib, Seaborn, Plotly  
+- **Dev Tools:** Git/GitHub, Docker, Linux, Bash, Jupyter, VS Code, SLURM (HPC)  
 
 ## 🔬 Current Projects
-PROJECT 1: DESCRIPTION
-
-## 🚀 Goals
-- Utilize machine learning to uncover hidden insights to genetic data
-- Collaborate with other researchers to create meaningful, open-source healthcare applications
+- 🚧 Work in progress 🚧
 
 ## 📫 Let's Connect
 
