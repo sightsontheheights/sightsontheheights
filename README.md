@@ -7,7 +7,7 @@ My prior work spans genetic analysis and medical imaging, with a particular inte
 [Personal Website](https://sightsontheheights.github.io/)
 
 ## 🛠️ Technologies & Tools
-- **Programming & Data:** Python, R, SQL, C++  
+- **Programming & Data:** Python, R, SQL, Javascript
 - **Machine Learning & AI:** Scikit-learn, TensorFlow, PyTorch, MONAI  
 - **Data Science:** Pandas, NumPy, SciPy, Time Series Modeling, Predictive Analytics  
 - **Medical AI:** Medical Imaging (CT/MRI), Deep Learning (CNNs, RNNs, Transformers)  
