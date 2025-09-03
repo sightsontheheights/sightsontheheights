@@ -9,8 +9,7 @@ My prior work spans genetic analysis and medical imaging, with a particular inte
 ## 🛠️ Technologies & Tools
 - **Programming & Data:** Python, R, SQL, Javascript
 - **Machine Learning & AI:** Scikit-learn, TensorFlow, PyTorch, MONAI  
-- **Data Science:** Pandas, NumPy, SciPy, Time Series Modeling, Predictive Analytics  
-- **Medical AI:** Medical Imaging (CT/MRI), Deep Learning (CNNs, RNNs, Transformers)  
+- **Data Science:** Pandas, NumPy, SciPy, Time Series Modeling, Deep Learning (CNNs, RNNs, Transformers)  
 - **Visualization:** Matplotlib, Seaborn, Plotly  
 - **Dev Tools:** Git/GitHub, Docker, Linux, Bash, Jupyter, VS Code, SLURM  
 
