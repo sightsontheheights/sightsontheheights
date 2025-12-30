@@ -4,7 +4,7 @@ I am a Master’s student in Data Science at Carleton University focused on appl
 My prior work spans genetic analysis and medical imaging, with a particular interest in enhancing AI precision to improves patient care. My goal is to help create a future where technology augments human expertise, forming smarter and more efficient healthcare systems.
 
 ## 🌐 My Blog & Portfolio
-[Personal Website](https://sightsontheheights.github.io/)
+🚧 
 
 ## 🛠️ Technologies & Tools
 - **Programming & Data:** Python, R, SQL, Javascript
