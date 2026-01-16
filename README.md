@@ -1,10 +1,5 @@
-# 👋 Hello, I'm Jason! 😸
-I am a Master’s student in Data Science at Carleton University focused on applying data science to healthcare. I build technologies that assist clinicians by enabling faster, safer, and more informed decisions.
-
-My prior work spans genetic analysis and medical imaging, with a particular interest in enhancing AI precision to improves patient care. My goal is to help create a future where technology augments human expertise, forming smarter and more efficient healthcare systems.
-
-## 🌐 My Blog & Portfolio
-🚧 
+# 👋 Howdy, I'm Jason! 😸
+Master’s Data Science student @ Carleton University working at the intersection of healthcare + AI. I build clinical-support tools that help clinicians make faster and safer decisions. Background in genetic analysis and medical imaging. Interested in precision AI, clinical workflows, and human-augmented systems.
 
 ## 🛠️ Technologies & Tools
 - **Programming & Data:** Python, R, SQL, Javascript
