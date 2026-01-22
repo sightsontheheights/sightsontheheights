@@ -8,9 +8,6 @@ Master’s Data Science student @ Carleton University working at the intersectio
 - **Visualization:** Matplotlib, Seaborn, Plotly  
 - **Dev Tools:** Git/GitHub, Docker, Linux, Bash, Jupyter, VS Code, SLURM  
 
-## 🔬 Current Projects
-- 🚧 Work in progress 🚧
-
 ## 📫 Let's Connect
 
 Feel free to explore my repositories and reach out if you want to chat about machine learning, healthcare, or genetics!
